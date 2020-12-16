@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.marcus</groupId>
-    <artifactId>dextrachallange</artifactId>
+    <artifactId>dextrachallenge</artifactId>
     <version>1</version>
-    <name>dextrachallange</name>
-    <description>Challange Backend Dextra</description>
+    <name>dextrachallenge</name>
+    <description>Challenge Backend Dextra</description>
 
     <properties>
         <java.version>14</java.version>
